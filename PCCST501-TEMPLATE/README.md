@@ -4,10 +4,10 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
-| Class | S5 CSE |
+| Name | Muhammed Aamir |
+| Register Number | VJC24CS114 |
+| GitHub Username | mhdaamiryo |
+| Class | S5 CSE A |
 | College | Viswajyothi College of Engineering and Technology |
 
 ## Repository Structure
